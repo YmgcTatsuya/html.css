@@ -66,6 +66,12 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  main { display: block;
+  main { 
+    display: block;
+    padding: 4%;
+  }
+  
+  .step-box {
+    margin: 4%;
   }
 }
