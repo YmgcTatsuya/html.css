@@ -69,9 +69,11 @@ footer {
   main { 
     display: block;
     padding: 4%;
+    width: 90%;
   }
   
   .step-box {
     margin: 4%;
+    width: 90%;
   }
 }
